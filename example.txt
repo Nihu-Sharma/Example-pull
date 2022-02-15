@@ -1,1 +1,2 @@
 this 2nd change in example.txt
+this is more content as you like
